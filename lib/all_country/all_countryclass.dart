@@ -13,11 +13,11 @@ class AllCountryClass extends StatefulWidget {
 
 class _AllCountryClassState extends State<AllCountryClass> {
   List Country = [
-    ['Bangladesh','assets/pictures/bangladesh.jpg','Taka','16,00,000', 'Dhaka' ],
-    ['India','assets/pictures/bangladesh.jpg','Rupi','132,00,000', 'New Delhi' ],
-    ['Pakisthan','assets/pictures/bangladesh.jpg','Rupi','132,00,000', 'New Delhi' ],
-    ['China','images/bangladesh.jpg','Rupi','132,00,000', 'New Delhi' ],
-    ['Afganisthan','images/bangladesh.jpg','Rupi','132,00,000', 'New Delhi' ]
+    ['Bangladesh','assets/pictures/bangladesh.png','Taka','16,00,000', 'Dhaka' ],
+    ['India','assets/pictures/bangladesh.png','Rupi','132,00,000', 'New Delhi' ],
+    ['Pakisthan','assets/pictures/bangladesh.png','Rupi','132,00,000', 'New Delhi' ],
+    ['China','assets/pictures/bangladesh.png','Rupi','132,00,000', 'New Delhi' ],
+    ['Afganisthan','assets/pictures/bangladesh.png','Rupi','132,00,000', 'New Delhi' ]
   ];
 
 
